@@ -1,7 +1,8 @@
 # notfap-script
 
 ## Description
-Download private patreon files from yiff.party 
+Download private patreon files from yiff.party
+It requires cURL for PHP
 
 ## Usage 
 
